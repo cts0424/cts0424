@@ -8,7 +8,7 @@ I'm interested in **software development, computer vision, machine learning**. I
 
 ## Technical Skills
 
-**Programming:** C/C++ · Python · Java · TypeScript · JavaScript  
+**Programming:** C/C++ · Python · Java · TypeScript  
 **Backend & Web:** Node.js · Express · Prisma · PostgreSQL · React · HTML/CSS · REST APIs  
 **Computer Vision & ML:** PyTorch · Keras · OpenCV · YOLO · Re-ID  
 **Tools & Other Areas:** Git · Linux · Docker · Swagger · Postman · ANTLR · LLVM IR
