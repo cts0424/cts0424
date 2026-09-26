@@ -6,16 +6,6 @@ I'm interested in **software development, computer vision, machine learning**. I
 
 [🌐 Portfolio](https://cts0424.github.io/) · [繁體中文](https://cts0424.github.io/index-zh.html) · [📫 Email](mailto:tatsiangchen@gmail.com)
 
-## About Me
-
-I'm studying **Computer Science and Information Engineering at National Chung Cheng University (CCU)**. My university work includes a National Science and Technology Council (NSTC) project, industry–academia research, and team software projects. Through these experiences, I've worked with data processing, software development, and experimental analysis.
-
-## Research & Development Experience
-
-- **Cross-Camera Person Tracking** — In an ongoing NSTC and industry–academia project, I integrate YOLO, ByteTrack/OC-SORT, and Re-ID. I use annotated data to study identity consistency, detection quality, occlusion, and gallery contamination. [Read the project](https://cts0424.github.io/projects/reid.html).
-- **Backend Development** — For the TAI Trustworthy AI Assessment System, I led backend development: data models and Prisma schema, authentication and access control, assessment APIs, LLM-generated improvement suggestions, API documentation, and testing. [Read the project](https://cts0424.github.io/projects/tai.html).
-- **Course and Practical Projects** — I have built a C-to-LLVM IR compiler, worked on an AI-assisted reminiscence project, and improved a Tkinter/Excel tool for managing graduation gown loans and returns in campus work.
-
 ## Technical Skills
 
 **Programming:** C/C++ · Python · Java · TypeScript · JavaScript  
