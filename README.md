@@ -23,5 +23,6 @@ I'm interested in **software development, computer vision, machine learning**. I
 - [C-to-LLVM IR Compiler](https://github.com/cts0424/c-subset-to-llvm-ir) — A compiler for a subset of C using ANTLR4 and Java.
 - [Graduation Gown Loan and Return System](https://github.com/cts0424/graduation-gown-return-system) — A shareable version of a campus operations tool.
 - [Trip Down Memory Lane](https://github.com/TripDownMemoryLane/TripDownMemoryLane-final) — A team project exploring AI-assisted reminiscence for older adults and their families.
+- [Personal Portfolio Website](https://cts0424.github.io/) — A personal website to showcase my projects and skills.
 
 More details are available on my [portfolio website](https://cts0424.github.io/).
